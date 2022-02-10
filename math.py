@@ -1,7 +1,7 @@
 #math fn implementation
 #add implementation
 def add(x,y):
-    pass
+    return x+y
 #subtruct implementation
 def subtruct(x,y):
     pass
